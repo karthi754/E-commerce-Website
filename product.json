@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "name": "Rolex Watch",
+        "price": 520,
+        "image":"images/1.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Product 2",
+        "price": 220,
+        "image": "images/2.webp"
+    },
+    {
+        "id": 3,
+        "name": "Product 3",
+        "price": 250,
+        "image": "images/3.jpeg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Product 4",
+        "price": 420,
+        "image": "images/4.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "price": 120,
+        "image": "images/11.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Product 6",
+        "price": 120,
+        "image": "images/12.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "price": 120,
+        "image": "images/13.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "price": 120,
+        "image": "images/14.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "price": 120,
+        "image": "images/23.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "price": 120,
+        "image": "images/21.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "price": 120,
+        "image": "images/22.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "price": 120,
+        "image": "images/24.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "price": 120,
+        "image": "images/31.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "price": 120,
+        "image": "images/32.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "price": 120,
+        "image":"images/33.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Product 5",
+        "price": 120,
+        "image":"images/34.jpeg"
+    }
+
+]
